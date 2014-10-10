@@ -1,9 +1,9 @@
 dotfiles
 ========
 
-A bunch of linux config files I use. Mainly here so I won't loose them.
+A bunch of linux config files I use. Mainly here so I won't lose them.
 
-**Repo includes: **
+**Repo includes:**
 
 * .vimrc
 * i3 config
