@@ -9,12 +9,12 @@ xterm*eightBitInput: false
 
 ! URxvt config
 URxvt.transparent: true
-URxvt.shading: 20
+URxvt.shading: 10
 
 URxvt.Scrollstyle: xterm
 URxvt.scrollBar: false
-URxvt.font: xft:Monospace:pixelsize=14
-URxvt.boldfont:xft:Monospace-Bold:pixelsize=14
+URxvt.font: xft:Monospace:pixelsize=11
+URxvt.boldfont:xft:Monospace-Bold:pixelsize=11
 URxvt.letterSpace: -1
 URxvt.allow_bold: true
 
@@ -99,3 +99,4 @@ XTerm*colorUL        : _colorUL
 XTerm*foreground     : _foreground
 XTerm*background     : _background
 XTerm*cursorColor    : _cursorColor
+
